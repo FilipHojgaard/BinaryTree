@@ -1,0 +1,7 @@
+C:\Users\filip\source\repos\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\Users\filip\source\repos\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+C:\Users\filip\source\repos\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\filip\source\repos\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\BinaryTree\BinaryTree\obj\Debug\BinaryTree.exe
+C:\Users\filip\source\repos\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb
+C:\Users\filip\source\repos\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csprojAssemblyReference.cache
